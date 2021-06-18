@@ -5,3 +5,5 @@ Libraries used:
   BeautifulSoup
   Pandas
   Numpy
+
+Note: LinkedIn scraper is under development
